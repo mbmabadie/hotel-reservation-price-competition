@@ -1,0 +1,6 @@
+13/12/2022 09:10:46 PM INFO Call to generate_random_queries_with_descending_dates() with 5 as parameter
+13/12/2022 09:10:46 PM INFO Generated random avatar name: xpmnikwu, that will make 2 queries [array(['amsterdam', 'slovakian', '17', '1'], dtype='<U21'), array(['madrid', 'slovakian', '16', '1'], dtype='<U21')]
+13/12/2022 09:10:46 PM INFO Generated random avatar name: nwmkqyfe, that will make 2 queries [array(['rome', 'slovene', '40', '1'], dtype='<U21'), array(['sofia', 'slovene', '4', '1'], dtype='<U21')]
+13/12/2022 09:10:46 PM INFO Generated random avatar name: xdrjscmy, that will make 2 queries [array(['copenhagen', 'bulgarian', '35', '1'], dtype='<U21'), array(['copenhagen', 'bulgarian', '2', '0'], dtype='<U21')]
+13/12/2022 09:10:46 PM INFO Generated random avatar name: oyuhiazn, that will make 3 queries [array(['madrid', 'slovakian', '4', '0'], dtype='<U21'), array(['madrid', 'croatian', '3', '0'], dtype='<U21'), array(['madrid', 'slovakian', '1', '0'], dtype='<U21')]
+13/12/2022 09:10:46 PM INFO Generated random avatar name: ikrdyosb, that will make 3 queries [array(['amsterdam', 'hungarian', '34', '1'], dtype='<U21'), array(['amsterdam', 'hungarian', '6', '0'], dtype='<U21'), array(['amsterdam', 'hungarian', '5', '0'], dtype='<U21')]
